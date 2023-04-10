@@ -1,6 +1,6 @@
 # Best Buy Bot for Graphics Cards
 Introduction
-This is a Python script for automating the purchase process of the NVIDIA GeForce RTX 3080 graphics card from Best Buy. The script uses the Selenium library to control a web browser and interact with the Best Buy website.
+This is a Python script for automating the purchase process of the NVIDIA GeForce RTX 3080 or any graphics card from Best Buy. The script uses the Selenium library to control a web browser and interact with the Best Buy website.
 
 Dependencies
 The following Python modules are required to run the script:
